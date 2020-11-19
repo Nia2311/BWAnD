@@ -5,6 +5,6 @@
 - Atikah Khonsa Salsabila (1313619002)
 - Siti Nuraisyarani Baashita (1313619008)
 
-# Phase 1
+# [Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
 
-# 
+# [Phase 2](
