@@ -8,7 +8,7 @@ User: Agen/Armada, Karyawan Produksi, dan Pengawas dari Andita & D'Vabya Bakery<
 Berikut adalah hasil wawancara kami bersama Ibu Deva dan hasil observasi kami dari data yang diberikan oleh Ibu Deva selaku pemilik bisnis tersebut.<br><br>
 
 Proof:
-[Link Wawancara](https://drive.google.com/file/d/1JqMBXJCRkr-T6K9c39m0HKFc4q47eWAt/view?usp=sharing)
+[Link Wawancara](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/tree/main/1st%20Phase)
 
 ### Wawancara :
 1.	Bagaimana perkembangan bisnis Toko Roti yang anda telah rintis sampai saat ini?<br><br>
