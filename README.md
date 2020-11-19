@@ -7,16 +7,17 @@
 
 # BWAnD (Bakery Website Andita & D'Vabya)
 
-# Tujuan
+## Tujuan
 
-# Fitur
+## Fitur
 
-# Use Case
+## Use Case
+![Image of Use Case]
 
-# Design Interaction Control
+## Design Interaction Control
 
-# Design Mock Up
+## Design Mock Up
 
-## [Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
+### [Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
 
-## [Phase 2](https://github.com/Nia2311/BWAnD/tree/main/2nd%20Phase)
+### [Phase 2](https://github.com/Nia2311/BWAnD/tree/main/2nd%20Phase)
