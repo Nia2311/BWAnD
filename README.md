@@ -6,7 +6,7 @@
 - Siti Nuraisyarani Baashita (1313619008)
 
 # BWAnD (Bakery Website Andita & D'Vabya)
-BWAnD adalah website dan sistem informasi dari Toko roti Andita & D’vabya Bakery. Toko tersebut merupakan Toko roti yang sedang berkembang di kawasan jabodetabek. Toko tersebut telah memiliki cabang di berbagai kota dan karyawan yang lumayan banyak. Namun, semakin besar bisnis tersebut, semakin kompleks juga masalah yang dihadapi terutama dalam sisi administrasi dan proses penginputan data pemesanan dari tiap cabang ke bagian produksi. Maka dari itu website dan sistem yang kami rancang bertujuan untuk mempermudah proses bisnis yang ada di toko tersebut.
+BWAnD adalah website dan sistem informasi dari Toko roti Andita & D’vabya Bakery. Toko tersebut merupakan Toko roti yang sedang berkembang di kawasan jabodetabek. Toko tersebut telah memiliki cabang di berbagai kota dan karyawan yang lumayan banyak. Namun, semakin besar bisnis tersebut, semakin kompleks juga masalah yang dihadapi terutama dalam sisi administrasi dan proses penginputan data pemesanan dari tiap cabang ke bagian produksi.
 
 ## Tujuan
 Tujuan dari pembuatan BWAnD ini adalah untuk mempermudah proses bisnis yang ada di toko roti Andita & D’vabya Bakery.
