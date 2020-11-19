@@ -41,7 +41,7 @@ Fitur - fitur tersebut dapat dilihat dari use case yang telah kami buat, sebagai
 ![Image Design Control produksi](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/blob/main/1st%20Phase/Interaction%20Mock%20Up/interactionproduksi.jpeg)
 
 ## Design Mock Up
-[Mock Up Image](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/tree/main/1st%20Phase/Mock%20Up%20UI)
+[Mock Up Image](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/tree/main/1st%20Phase/Mock%20Up%20UI)<br>
 [Mock Up Link](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/tree/main/1st%20Phase)
 
 ### [Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
