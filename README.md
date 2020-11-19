@@ -9,7 +9,7 @@
 BWAnD adalah website dan sistem informasi dari Toko roti Andita & D’vabya Bakery. Toko tersebut merupakan Toko roti yang sedang berkembang di kawasan jabodetabek. Toko tersebut telah memiliki cabang di berbagai kota dan karyawan yang lumayan banyak. Namun, semakin besar bisnis tersebut, semakin kompleks juga masalah yang dihadapi terutama dalam sisi administrasi dan proses penginputan data pemesanan dari tiap cabang ke bagian produksi.
 
 ## Tujuan
-Tujuan dari pembuatan BWAnD ini adalah untuk mempermudah proses bisnis yang ada di toko roti Andita & D’vabya Bakery.
+Tujuan dari pembuatan BWAnD ini adalah untuk mempermudah proses bisnis yang ada di toko roti Andita & D’vabya Bakery. Yaitu mempermudah data pemesanan roti dan adiministrasi yang terdapat pada toko tersebut.
 
 ## Fitur
 Fitur yang terdapat di BWAnD terbagi menjadi 3, yaitu Pengunjung non Karyawan, Karyawan Armada, dan Karyawan Produksi.
