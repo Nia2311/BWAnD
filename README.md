@@ -47,6 +47,8 @@ Fitur - fitur tersebut dapat dilihat dari use case yang telah kami buat, sebagai
 ## Mini Report
 Mini report 1st phase dapat dilihat di: [Link Mini Report](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/blob/main/Mini%20Report/README.md)
 
+## Final Report
+
 #### [Link Data Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
 
 #### [Link Data Phase 2](https://github.com/Nia2311/BWAnD/tree/main/2nd%20Phase)
