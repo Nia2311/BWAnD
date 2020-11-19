@@ -31,12 +31,12 @@ User memiliki bisnis yang cukup besar dan tersebar di beberapa kota, namun ia me
 Selama ini user masih menggunakan cara manual yang melibatkan banyak kertas, proses dan tenaga. Ia menginginkan sebuah sistem yang dapat mengintegrasikan semuanya dan menyederhanakan proses dalam menginput data pemesanan.
 Selain hal diatas user juga memerlukan sebuah website untuk membranding produknya dan juga menjadi identitas bisnis miliknya agar terlihat lebih profesional mengingat bisnisnya yang sudah berkembang menjadi cukup besar.
 Kebanyakan karyawan toko roti tersebut masih kurang berpengalaman dan kurang terbiasa dalam mengoperasikan perangkat pintar dan hanya beberapa karyawan yang memiliki laptop. Sebagian besar dari mereka menggunakan Smartphone untuk berkomunikasi satu sama lain.
-Kesimpulan yang dibutuhkan user :
-•	Sebuah website yang berisi company profile untuk branding produk yang dimiliki user dan juga sistem yang bisa menghubungkan user, karyawan armada, dan bagian produksi dalam proses penginputan data pemesanan.
-•	Fitur dimana karyawan armada bisa langsung mengirimkan data pemesanan ke bagian produksi secara realtime dan bisa dipantau langsung oleh user sebagai pengawas dan pemilik bisnis.
-•	Tempat untuk masing-masing karyawan armada memiliki tempat sendiri untuk menginput data pemesanan mereka dan tidak bisa melihat atau mencampuri urusan pemesanan karyawan armada lainnya.
-•	Halaman khusus bagian produksi dan pengawas untuk melihat jumlah data pemesanan dari masing-masing karyawan armada dan kota cabang. 
-•	Penyimpanan dan pencatatan data di sistem yang kemudian bisa diunduh dalam bentuk pdf untuk memudahkan laporan.
-•	Tampilan web yang responsif terhadap ukuran layar handphone mengingat kebanyakan karyawan hanya memiliki handphone
-•	Perancangan desain antarmuka (User interface)  dan desain pengalaman pengguna (user experience) yang sesuai dengan usia dan pengalaman karyawan yang kurang terbiasa mengoperasikan smartphone agar tidak membingungkan mereka. 
+Kesimpulan yang dibutuhkan user :<br>
+•	Sebuah website yang berisi company profile untuk branding produk yang dimiliki user dan juga sistem yang bisa menghubungkan user, karyawan armada, dan bagian produksi dalam proses penginputan data pemesanan.<br>
+•	Fitur dimana karyawan armada bisa langsung mengirimkan data pemesanan ke bagian produksi secara realtime dan bisa dipantau langsung oleh user sebagai pengawas dan pemilik bisnis.<br>
+•	Tempat untuk masing-masing karyawan armada memiliki tempat sendiri untuk menginput data pemesanan mereka dan tidak bisa melihat atau mencampuri urusan pemesanan karyawan armada lainnya.<br>
+•	Halaman khusus bagian produksi dan pengawas untuk melihat jumlah data pemesanan dari masing-masing karyawan armada dan kota cabang.<br> 
+•	Penyimpanan dan pencatatan data di sistem yang kemudian bisa diunduh dalam bentuk pdf untuk memudahkan laporan.<br>
+•	Tampilan web yang responsif terhadap ukuran layar handphone mengingat kebanyakan karyawan hanya memiliki handphone.<br>
+•	Perancangan desain antarmuka (User interface)  dan desain pengalaman pengguna (user experience) yang sesuai dengan usia dan pengalaman karyawan yang kurang terbiasa mengoperasikan smartphone agar tidak membingungkan mereka.<br> 
 
