@@ -12,7 +12,8 @@
 ## Fitur
 
 ## Use Case
-![Image of Use Case]
+Fitur - fitur tersebut dapat dilihat dari use case yang telah kami buat, sebagai berikut:<br>
+![Image of Use Case](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/blob/main/1st%20Phase/usecase.jpeg)
 
 ## Design Interaction Control
 
