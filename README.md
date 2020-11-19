@@ -7,4 +7,4 @@
 
 # [Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
 
-# [Phase 2](
+# [Phase 2](https://github.com/Nia2311/BWAnD/tree/main/2nd%20Phase)
