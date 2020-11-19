@@ -49,6 +49,9 @@ Mini report 1st phase dapat dilihat di: [Link Mini Report](https://github.com/Ni
 
 ## Final Report
 
+## Presentasi
+Presentasi tim kami dapat dilihat di: [Link Presentasi](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/tree/main/2nd%20Phase)
+
 #### [Link Data Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
 
 #### [Link Data Phase 2](https://github.com/Nia2311/BWAnD/tree/main/2nd%20Phase)
