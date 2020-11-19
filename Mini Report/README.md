@@ -7,6 +7,7 @@ User: Agen/Armada, Karyawan Produksi, dan Pengawas dari Andita & D'Vabya Bakery<
   Namun, semakin besar bisnis tersebut, semakin kompleks juga masalah yang dihadapi terutama dalam sisi administrasi dan proses penginputan data pemesanan dari tiap cabang ke bagian produksi. Maka dari itu website dan sistem yang kami rancang bertujuan untuk mempermudah proses bisnis yang ada di toko tersebut. Website yang kami buat ini merupakan jenis Fixed App karena digunakan dalam lingkup terbatas yaitu hanya lingkup karyawan dan pemilik dari toko roti Andita & D’vabya Bakery saja. Maka metode pengumpulan data yang kami gunakan adalah interview dan observasi.<br>
 Berikut adalah hasil wawancara kami bersama Ibu Deva dan hasil observasi kami dari data yang diberikan oleh Ibu Deva selaku pemilik bisnis tersebut.<br><br>
 
+Proof:
 [Link Wawancara](https://drive.google.com/file/d/1JqMBXJCRkr-T6K9c39m0HKFc4q47eWAt/view?usp=sharing)
 
 ### Wawancara :
