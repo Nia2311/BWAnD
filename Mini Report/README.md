@@ -1,7 +1,9 @@
 
   Pada tugas mata kuliah Interaksi Manusia Komputer ini kami telah menentukan ide kami berdasarkan identifikasi masalah yang ada di sekitar kami yaitu pembuatan website dan sistem informasi dari Toko roti Andita & D’vabya Bakery. Toko tersebut merupakan Toko roti yang sedang berkembang di kawasan jabodetabek. Toko tersebut telah memiliki cabang di berbagai kota dan karyawan yang lumayan banyak.<br><br> 
   Namun, semakin besar bisnis tersebut, semakin kompleks juga masalah yang dihadapi terutama dalam sisi administrasi dan proses penginputan data pemesanan dari tiap cabang ke bagian produksi. Maka dari itu website dan sistem yang kami rancang bertujuan untuk mempermudah proses bisnis yang ada di toko tersebut. Website yang kami buat ini merupakan jenis Fixed App karena digunakan dalam lingkup terbatas yaitu hanya lingkup karyawan dan pemilik dari toko roti Andita & D’vabya Bakery saja. Maka metode pengumpulan data yang kami gunakan adalah interview dan observasi.<br>
-Berikut adalah hasil wawancara kami bersama Ibu Deva dan hasil observasi kami dari data yang diberikan oleh Ibu Deva selaku pemilik bisnis tersebut.
+Berikut adalah hasil wawancara kami bersama Ibu Deva dan hasil observasi kami dari data yang diberikan oleh Ibu Deva selaku pemilik bisnis tersebut.<br><br>
+
+[Link Wawancara](https://drive.google.com/file/d/1JqMBXJCRkr-T6K9c39m0HKFc4q47eWAt/view?usp=sharing)
 
 ### Wawancara :
 1.	Bagaimana perkembangan bisnis Toko Roti yang anda telah rintis sampai saat ini?<br><br>
