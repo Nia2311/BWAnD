@@ -44,6 +44,9 @@ Fitur - fitur tersebut dapat dilihat dari use case yang telah kami buat, sebagai
 [Mock Up Image](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/tree/main/1st%20Phase/Mock%20Up%20UI)<br>
 [Mock Up Link](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/tree/main/1st%20Phase)
 
-### [Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
+## Mini Report
+Mini report 1st phase dapat dilihat di: [Link Mini Report](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/blob/main/Mini%20Report/README.md)
 
-### [Phase 2](https://github.com/Nia2311/BWAnD/tree/main/2nd%20Phase)
+#### [Link Data Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
+
+#### [Link Data Phase 2](https://github.com/Nia2311/BWAnD/tree/main/2nd%20Phase)
