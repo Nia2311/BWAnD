@@ -56,6 +56,7 @@ class login extends CI_Controller {
         redirect('login/login_armada');
     }
 
+
     public function proses_login_produksi(){	
         $nama = $this->input->post('nama');
         $password = $this->input->post('password');
@@ -86,6 +87,7 @@ class login extends CI_Controller {
             }
         }   
     }
+
 
 
 }

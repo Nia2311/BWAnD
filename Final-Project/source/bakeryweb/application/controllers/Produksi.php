@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Produksi extends CI_Controller {
+
     public function __construct(){
         parent::__construct();
         $this->load->model('tampil');
@@ -76,4 +77,11 @@ class Produksi extends CI_Controller {
         echo json_encode($panggil);
         
     }
+
+
+    public function dashboard_produksi(){	
+        $this->load->view('produksi/dashboard_produksi');
+    }
+
+
 }
