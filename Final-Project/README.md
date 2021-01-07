@@ -5,11 +5,11 @@
 - Atikah Khonsa Salsabila (1313619002)
 - Siti Nuraisyarani Baashita (1313619008)
 
-Berikut laporan, source code, dan site link dari tim kami untuk final project BWAnD:
+Berikut adalah laporan, source code, dan site link dari tim kami untuk final project BWAnD:
 
 ### Group Report
 
-#### [Report]
+#### [Report](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/blob/development/Final-Project/FINAL%20REPORT%20PROJECT%20HCI%20.pdf)
 #### [Demo Web](https://drive.google.com/file/d/1PbBIgeAuF41vQfyfSW_wQZh1wiMStdtd/view?usp=sharing)
 
 ### Source Code
