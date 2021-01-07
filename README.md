@@ -6,6 +6,9 @@
 - Siti Nuraisyarani Baashita (1313619008)
 
 ![Image of Home](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/blob/main/1st%20Phase/Mock%20Up%20UI/Home.png)
+
+## [Final Project](https://github.com/Nia2311/BWAnD-Bakery-Website-Andita-D-vabya-/tree/development/Final-Project)
+
 # BWAnD (Bakery Website Andita & D'Vabya)
 BWAnD adalah website dan sistem informasi dari Toko roti Andita & D’vabya Bakery. Toko tersebut merupakan Toko roti yang sedang berkembang di kawasan jabodetabek. Toko tersebut telah memiliki cabang di berbagai kota dan karyawan yang lumayan banyak. Namun, semakin besar bisnis tersebut, semakin kompleks juga masalah yang dihadapi terutama dalam sisi administrasi dan proses penginputan data pemesanan dari tiap cabang ke bagian produksi.
 
@@ -57,3 +60,4 @@ Presentasi tim kami dapat dilihat di: [Link Presentasi](https://github.com/Nia23
 #### [Link Data Phase 1](https://github.com/Nia2311/BWAnD/tree/main/1st%20Phase)
 
 #### [Link Data Phase 2](https://github.com/Nia2311/BWAnD/tree/main/2nd%20Phase)
+
