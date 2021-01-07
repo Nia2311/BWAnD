@@ -126,12 +126,29 @@ class Agen extends CI_Controller {
 
     public function kirim($tanggal){
         $all = $_SESSION;
+        $cabang = $this->session->userdata('cabang');
+        switch($cabang){
+            case "Bantar gebang":
+                $cabang = 'bantar_gebang';
+                break;
+            case "non-mitra":
+                $cabang = 'non_mitra';
+                break;
+            default:
+                break;
+        }
         for($key=0; $key < count($all['tabel']); $key++){
             $dataroti['id_karyawan'] = $all['id'];
             $dataroti['roti'] = $all['tabel'][$key]['roti'];
             $dataroti['jumlah'] = $all['tabel'][$key]['jumlah'];
             $dataroti['id_pemesanan']= $this->KirimRoti->getroti($dataroti['id_karyawan'], $tanggal);
             $dataroti['tanggal'] = $tanggal;
+
+            $data2['tanggal'] = $tanggal;
+            $data2['id_karyawan'] = $this->session->userdata('id');
+            $data2['roti'] = $all['tabel'][$key]['roti'];
+            $data2['jumlah'] = $all['tabel'][$key]['jumlah'];
+            $this->KirimRoti->addroti($data2, $cabang);
 
             $this->KirimRoti->addroti($dataroti, 'tb_roti');
         }
