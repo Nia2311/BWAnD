@@ -18,6 +18,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <a class="navbar-brand" href="#"> <img src="<?= base_url();?>/assets/images/bakery-white.png" width="140px"> </a>
     </nav>
 
+
         <div class="row no-gutters">
         <div class="col-md-3">
             <nav class="navbar navbar-dark navbar-expand-lg bg-dark">
@@ -60,3 +61,4 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
   </body>
 </html>
+

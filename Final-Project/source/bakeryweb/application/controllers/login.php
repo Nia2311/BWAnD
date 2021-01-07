@@ -57,4 +57,37 @@ class login extends CI_Controller {
     }
 
 
+    public function proses_login_produksi(){	
+        $nama = $this->input->post('nama');
+        $password = $this->input->post('password');
+
+        $user = $this->db->get_where('admin',['nama'=>$nama])->row_array();
+        $this->form_validation->set_rules('nama','Nama','trim|required');
+        $this->form_validation->set_rules('password','Sandi','trim|required');
+
+        if($this->form_validation->run()==false){
+            redirect('login/login_produksi');   
+        }else{
+            if($nama == $user['nama']){
+                if($password == $user['password']){
+                    $data = [
+                        'id' => $user['id'],
+                        'nama' => $user['nama'],
+                    ];
+                    $this->session->set_userdata($data);
+                    redirect('Produksi');
+
+                }else{
+                    $this->session->set_flashdata('message', '<div class="alert alert-danger" role="alert"> Password Salah ! </div>');
+                    redirect('login/login_produksi');    
+                }
+            }else{
+                $this->session->set_flashdata('message', '<div class="alert alert-danger" role="alert"> Nama Salah ! </div>');
+                redirect('login/login_produksi');
+            }
+        }   
+    }
+
+
+
 }
