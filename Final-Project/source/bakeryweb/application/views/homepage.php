@@ -32,11 +32,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <a class="nav-link" href="#">Kontak</a>
             </li>
           </ul>
-          <form>
-          <?php
-              echo anchor('login_produksi','Login Mitra', ['class' => 'btn btn-md btn-primary ml-5']);
-          ?>
-        </form>
+          <a href="<?= base_url();?>login_armada" class="btn btn-md btn-primary ml-5"> Login Mitra</a>
         </div>
         </div>
     </nav>
