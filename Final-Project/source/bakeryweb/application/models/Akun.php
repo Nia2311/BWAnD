@@ -8,6 +8,10 @@ class Akun extends CI_Model {
         return $this->db->get('tb_akun');
     }
 
+    function akun_admin(){
+        return $this->db->get('admin');
+    }
+
 }
 
 /* End of file akun.php */
